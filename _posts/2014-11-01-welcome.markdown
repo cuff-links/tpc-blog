@@ -1,0 +1,27 @@
+---
+layout: post
+title: With Open Brackets
+image: https://s3-us-west-2.amazonaws.com/thepowercoder/2016/12/thepowercoder-bluebackground.jpg
+date: '2014-11-01 03:18:21'
+published: false
+tags:
+- software-development
+- first
+- my-history
+---
+
+
+###The Reason Behind The Blog
+Every aspiring engineer that has made it into the increasingly expanding world of software development has a unique story about their path to writing software. Each developer has something that they can share, something they would have done different, some tech that they would or would not have invested time into. This blog is going to be a compilation of the different lessons I learned as I progressed towards becoming a software engineer in hopes to help make their path easier to travel.  
+
+### My Background In Technology
+My path was a bit of a winding road. I knew from an early age that I wanted to be a software engineer. At the ripe age of 11, I knew that I had a knack for computing, I was very skilled in math and I found computers and their inner machinations to be a wonder. At that age, I had already been selected to be the "IT guy" of the family. Someone bought a new surround sound? Go get John. Need that Playstation hooked up? John. I even got the VCR clock to work. This is probably typical of most of those who have made Information Technology their home.
+
+### My Path To Development
+You may be thinking that this is the part where I tell you that I went to MIT and obtained a degree in Computer Science, a Masters in Systems Engineering and became an intern for Amazon. Not at all. After high school, I found myself in need of work. Life happens. I wound up getting a job at a local dealership. The interesting thing about sales is that it's one of the few industries that will allow you to start with no experience and also present the possibility to make a decent living. It is also one of the hardest industries to get out of once you have gotten in. I was in sales for a total of 8 and a half years. By that time, I was an account manager for a telecommunications company. <br />
+At the telecommunications company, I got tired of the same old grind. At the end of the month, you are a hero. You have destroyed another quota and broke another record (hopefully). At the first of the month, you are a zero. Literally. You have made no sales. You will work tirelessly to become a hero again by the end of the month. Lather, rinse, repeat. Something had to change. So, I decided to go back to school and pursue the skills that I knew would allow me to work on something I found exhilerating.<br />
+When I started to attend classes, I would work ahead in the book trying to soak up as much information in as short a time as possible. After 2 or 3 classes, I felt ready to make a transition to IT. I landed my first role in IT as a Data Analyst. The tasks were a good introduction of working with systems and integrations. Working with files being parsed, computations and calculations. On this team, we also had programmers. I would take the opportunity to pick their brains. When I would acquire the skills to do someting more technical, I would. Once there, I would pick the brains of the seniors there. 
+Whenever I would find out about about something in technology taht I was unaware of, I would at least get a high level understanding of it. Some less obvious facets of software development are concepts like unit testing, test automation and continuous integration. Meanwhile, I was still attending school and progressing towards my degree. However, I started to notice that there was a huge disconnect between what the industry wanted to see from developers and what I was being taught in school. 
+
+####TL;DR
+I got most of my knowledge by picking the brain of someone who was smarter than me (which is basically everyone I came across). Whenever someone would mention something I never heard of, I did a quick search to get some familiarity on the subject to see if it was something that I should invest time in learning more about. As a software engineer, you become a professional student since the field is always changing. I learned practical concepts that were being used in the industry rather than the "best case scenarios" that are taught in college. In this blog, I will share the experiences I have learned from and help explain how they aided me on the road to development. 
