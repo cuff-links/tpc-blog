@@ -16,11 +16,11 @@ sass:
 permalink: /posts/:title/
 texture:
   title: John Dorlus
-  tagline: Software Engineer, Test Engineer
+  tagline: Sr. Software Engineer
   date_format: "%b %-d, %Y"
-  style: blue
-  showNav: true
-  showPicker: true
+  style: black
+  showNav: false
+  showPicker: false
 
   # generate social links in footer
   social_links:
