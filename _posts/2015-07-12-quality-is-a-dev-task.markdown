@@ -7,8 +7,6 @@ description: This article talks about the misconception that quality and testing
 tag: [software-development, quality-engineering, test-engineering, QE, QA, quality-assurance, unit-testing, integration-testing, docker, vagrant, dev-testing]
 ---
 
-## What? Developers Should Test?
-
 *"**I am not a tester.**", "**QA will figure it out.**", "**Works for me. Should be good in production.**":* These words are uttered in development organizations across the globe. I can't lie. I even uttered it once during a production push as a production engineer myself. What contributes to this mentality?
 
 #### What's In A Name?

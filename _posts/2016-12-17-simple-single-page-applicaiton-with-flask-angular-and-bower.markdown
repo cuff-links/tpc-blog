@@ -267,11 +267,11 @@ We declare the angular app called "hello_flask" and list its dependencies, [`ngR
 
 The [`$locationProvider`](https://docs.angularjs.org/api/ng/provider/$locationProvider) prettifies our URLs so we don't wind up with `http://localhost:5000/#!/about`, just `http://localhost:5000/about`.
 
-The [`$interpolateProvider`](https://docs.angularjs.org/api/ng/provider/$interpolateProvider) changes the syntax for injecting data into the templates. Both flask and Angular use double curly braces "{{}}" to inject data. So we will change the Angular side to use "{a a}"
+The [`$interpolateProvider`](https://docs.angularjs.org/api/ng/provider/$interpolateProvider) changes the syntax for injecting data into the templates. Both flask and Angular use double curly braces `{{}}` to inject data. So we will change the Angular side to use "{a a}"
 
 Now, let's take a look at controller.js
 
-Controllers in Angular are responsible for getting data to the [`$scope`](https://docs.angularjs.org/guide/scope) which is accessible from the templates. This $scope variable in this example is given a string that will be displayed in your template (i.e home.html). Angular has a bunch of nifty ways to display, filter and manipulate the data presented by $scope.
+Controllers in Angular are responsible for getting data ßto the [`$scope`](https://docs.angularjs.org/guide/scope) which is accessible from the templates. This $scope variable in this example is given a string that will be displayed in your template (i.e home.html). Angular has a bunch of nifty ways to display, filter and manipulate the data presented by $scope.
 
 OK. So let's create home.html and about.html in the partials folder. They will be very simple but have obvious differences so we know that Angular is working.
 
