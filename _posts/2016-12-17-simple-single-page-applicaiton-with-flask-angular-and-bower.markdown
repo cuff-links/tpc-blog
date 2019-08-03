@@ -267,7 +267,7 @@ We declare the angular app called "hello_flask" and list its dependencies, [`ngR
 
 The [`$locationProvider`](https://docs.angularjs.org/api/ng/provider/$locationProvider) prettifies our URLs so we don't wind up with `http://localhost:5000/#!/about`, just `http://localhost:5000/about`.
 
-The [`$interpolateProvider`](https://docs.angularjs.org/api/ng/provider/$interpolateProvider) changes the syntax for injecting data into the templates. Both flask and Angular use double curly braces `{{}}` to inject data. So we will change the Angular side to use "{a a}"
+The [`$interpolateProvider`](https://docs.angularjs.org/api/ng/provider/$interpolateProvider) changes the syntax for injecting data into the templates. Both flask and Angular use double curly braces to inject data. So we will change the Angular side to use "{a a}"
 
 Now, let's take a look at controller.js
 
