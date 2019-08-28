@@ -6,8 +6,7 @@ description: This article goes over some strategies to be able to land a role in
 tag: [software-development, portfolio, interviewing, soft-skills, no-experience, open-source, contributor]
 ---
 
-# This is everyone's story, right?
-
+**This is everyone's story, right?**
 1.) Graduated valedictorian from an A Ranked School and being captain of the Programming Club at 17 years of age. 
 2.) Graduated Summa Cum Laude from MIT with a Bachelors in Computer Science, minor in Mathematics in 3 years. 
 3.) Became an intern at Google which converted into a full time role after a year. 
