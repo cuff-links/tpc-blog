@@ -1,3 +1,11 @@
+---
+layout: post
+title: "How Can I Land A Software Job If I Have No Experience"
+date: 2019-08-28
+description: This article goes over some strategies to be able to land a role in the software development industry when you have no experience.
+tag: [software-development, portfolio, interviewing, soft-skills, no-experience, open-source, contributor]
+---
+
 # This is everyone's story, right?
 
 1.) Graduated valedictorian from an A Ranked School and being captain of the Programming Club at 17 years of age. 
